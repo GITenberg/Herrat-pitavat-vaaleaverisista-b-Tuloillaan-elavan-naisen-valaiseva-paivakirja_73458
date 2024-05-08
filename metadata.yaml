@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '46070'
     url: http://www.gutenberg.org/2009/agents/46070
     wikipedia: https://fi.wikipedia.org/wiki/Valfrid_Hedman
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Loos, Anita
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48921
     wikipedia: https://en.wikipedia.org/wiki/Anita_Loos
 description: 'Sequel: "... Mutta — naivat tummaverisiä", #73459.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73458#Herrat-pitavat-vaaleaverisista-b-Tuloillaan-elavan-naisen-valaiseva-paivakirja
 gutenberg_issued: '2024-04-24'
 gutenberg_type: Text
 identifiers:
